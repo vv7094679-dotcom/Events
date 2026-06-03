@@ -1,0 +1,30 @@
+[
+  {
+    "id": "enq-1",
+    "collegeId": "col-1",
+    "collegeName": "Indian Institute of Technology, Bombay (IITB)",
+    "name": "Rajesh Kumar",
+    "email": "rajesh.kumar@gmail.com",
+    "phone": "9876543210",
+    "qualification": "Class 12th Board",
+    "score": "96.4%",
+    "course": "Computer Science & Engineering",
+    "message": "I am interested in learning more about the admission criteria through JEE Advanced.",
+    "status": "New",
+    "date": "2026-05-28T09:15:00.000Z"
+  },
+  {
+    "id": "enq-2",
+    "collegeId": "col-5",
+    "collegeName": "RV College of Engineering (RVCE)",
+    "name": "Anjali Rao",
+    "email": "anjali.rao@yahoo.com",
+    "phone": "9123456789",
+    "qualification": "Class 12th Board",
+    "score": "94.2%",
+    "course": "Information Science & Engineering",
+    "message": "Looking forward to getting updates about the COMEDK round details.",
+    "status": "Contacted",
+    "date": "2026-05-27T14:30:00.000Z"
+  }
+]
