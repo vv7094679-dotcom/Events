@@ -128,7 +128,7 @@ export default function CollegeDetail() {
       </div>
 
       {/* 1. HERO HEADER SUMMARY */}
-      <section className="glass-panel" style={{
+      <section className="glass-panel college-header-panel" style={{
         position: 'relative',
         padding: '3rem 2rem',
         overflow: 'hidden',
@@ -136,7 +136,7 @@ export default function CollegeDetail() {
         gridTemplateColumns: '1fr 300px',
         gap: '2.5rem',
         alignItems: 'center',
-      }} className="college-header-panel">
+      }}>
         
         <div style={{
           position: 'absolute',
