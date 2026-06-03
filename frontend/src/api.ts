@@ -1,6 +1,6 @@
 import type { College, Enquiry, Analytics } from './types';
 
-const API_BASE = 'http://localhost:5001/api';
+const API_BASE = (import.meta.env.VITE_API_BASE || 'http://localhost:5001/api').replace(/\/$/, '');
 
 export interface CollegeFilters {
   search?: string;
